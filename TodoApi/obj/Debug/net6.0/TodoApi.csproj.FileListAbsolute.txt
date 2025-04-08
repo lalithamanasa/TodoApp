@@ -70,3 +70,4 @@ C:\Users\manas\Documents\TodoApi\TodoApi\TodoApi\obj\Debug\net6.0\ref\TodoApi.dl
 C:\Users\manas\Documents\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\Humanizer.dll
 C:\Users\manas\Documents\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\manas\Documents\TodoApi\TodoApi\TodoApi\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\manas\Documents\TodoApi\TodoApi\TodoApi\obj\Debug\net6.0\TodoApi.sourcelink.json

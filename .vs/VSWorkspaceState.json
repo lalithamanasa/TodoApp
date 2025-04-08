@@ -3,8 +3,9 @@
     "",
     "\\todo-app",
     "\\todo-app\\src",
-    "\\todo-app\\src\\app"
+    "\\todo-app\\src\\app",
+    "\\todo-app\\src\\app\\todo"
   ],
-  "SelectedNode": "\\todo-app\\src\\app\\app.module.ts",
+  "SelectedNode": "\\todo-app\\src\\app\\todo.service.ts",
   "PreviewInSolutionExplorer": false
 }
